@@ -1,0 +1,8 @@
+{
+    "title": "The History Of Sausages",
+    "description": "A funny history of sausages.",
+    "number_of_chapters": 3,
+    "words_per_chapter": 350,
+    "model": "gpt-3.5-turbo",
+    "api_key": "hfhfhfhf"
+}
